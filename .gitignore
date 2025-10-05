@@ -207,7 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 #----------------------------------------------------------------------
-# A partir de aqui esto es mio
+# A partir de aqui esto lo he puesto yo
 # --- Archivos específicos del TFG-FakeNews ---
 # Datos y resultados generados (no subir CSVs grandes ni cachés)
 data/
