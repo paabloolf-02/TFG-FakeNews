@@ -1,6 +1,6 @@
 # TFG-FakeNews
 Trabajo Fin de Grado en Ciberseguridad.  
-Proyecto centrado en la detección de noticias falsas mediante Machine Learning y el análisis de su propagación a través de consultas WHOIS y grafos de dominios.  
+Proyecto basado en construir y analizar un grafo de sitios de noticias en Internet, integrando información de contenido, metadatos técnicos (WHOIS/IP) y relaciones de similitud semántica, con el fin de identificar patrones de conexión entre dominios de noticias.
 
 ## Estructura del proyecto
 - `data/´ : Archivos de datos (dataset de noticias falsas o reales).
